@@ -1,3 +1,4 @@
+//they don't call me inefficient for no reason
 public class timetoEnglish {
     public static void main(String[] rags) {
         System.out.println(getTimeName(1,00));
